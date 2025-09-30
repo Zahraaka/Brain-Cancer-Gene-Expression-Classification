@@ -31,6 +31,8 @@ This creates a large table where genes are features, and the cancer type is the 
 
 # Dataset GSE50161 on brain cancer gene expression from CuMiDa
 
+https://www.kaggle.com/datasets/brunogrisci/brain-cancer-gene-expression-cumida
+
 This project uses the GSE50161 brain cancer gene expression dataset from the Curated Microarray Database (CuMiDa).
 
 Samples: 130
